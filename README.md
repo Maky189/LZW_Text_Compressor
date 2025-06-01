@@ -1,8 +1,6 @@
 # LZW (Lempel–Ziv–Welch) Compression algorithm
 ---
 
----
-
 ## What is the Lempel-Ziv-Welch algorithm?
 
 A sua invencão deveu-se a Jacob Ziv e Abraham Lempel (J. Ziv and A. Lempel, A universal algorithm for sequential data compression, IEEE Trans. on Information Theory, 1977, 23, pp. 337-343), em ﬁnais dos anos 70: LZ77 e LZ78. Desde então, muitas variantes foram propostas: LZH, LZSS, LZW (Lempel, Ziv, Welch). Este último método deve-se a Terry Welch que em 1984 publicou um artigo onde alguns dos problemas associados `a compressão LZ78 foram eliminados.
